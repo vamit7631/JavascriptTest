@@ -14,3 +14,10 @@ promise.then(i => {
     .then(i => {
         console.log(i);
     });	
+
+
+// output : 
+// 2
+// 4
+// undefined
+// 8
